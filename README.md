@@ -6,6 +6,4 @@
 + leetcode 第4题：[Median of Two Sorted Arrays](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 + leetcode 第5题：[Longest Palindromic Substring](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/5.%20Longest%20Palindromic%20Substring.md)
 + leetcode 第6题：[Add Two Numbers](https://leetcode.com/problems/two-sum/)
-+ leetcode 第7题：[Reverse Integer](https://leetcode.com/problems/two-sum/)
-+ leetcode 第8题：[Add Two Numbers](https://leetcode.com/problems/two-sum/)
-+ leetcode 第9题：[Add Two Numbers](https://leetcode.com/problems/two-sum/)
++ leetcode 第7题：[Reverse Integer](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/7.%20Reverse%20Integer.md)
