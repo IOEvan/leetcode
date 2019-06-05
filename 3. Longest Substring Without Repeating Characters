@@ -26,6 +26,7 @@
 根据人为的寻找习惯，应该从左到右以此遍历字符串，在出现重复字符串时重新寻找子字符串。字符串中对应的ASCII码中的256个字符，为了方便记下这256个字符可能出现的位置，所以可以用一个数据结构存储他们的位置。
 
 C++版：
+'
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
@@ -45,6 +46,7 @@ public:
     return ans;
     }
 };
+'
 
 Python:
 class Solution:
