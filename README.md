@@ -11,6 +11,7 @@
 + leetcode 第11题：[Container With Most Water](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/11.%20Container%20With%20Most%20Water.md)
 + leetcode 第12题：[Integer to Roman](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/12.%20Integer%20to%20Roman.md)
 + leetcode 第13题：[Roman to Integer](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/13.%20Roman%20to%20Integer.md)
++ leetcode 第27题：[Remove Element](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/27.%20Remove%20Element.md)
 + leetcode 第39题：[Combination Sum](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/39.%20Combination%20Sum.md)
 + leetcode 第40题：[Combination Sum2](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/40.%20Combination%20Sum%20II.md)
 + leetcode 第70题：[Climbing Stairs](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/70.%20Climbing%20Stairs.md)
