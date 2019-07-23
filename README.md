@@ -14,6 +14,7 @@
 + leetcode 第15题：[3Sum](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/15.%203Sum.md)
 + leetcode 第20题：[Valid Parentheses](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/20.%20Valid%20Parentheses.md)
 + leetcode 第27题：[Remove Element](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/27.%20Remove%20Element.md)
++ leetcode 第28题：[Implement strStr()](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/28.%20Implement%20strStr().md)
 + leetcode 第39题：[Combination Sum](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/39.%20Combination%20Sum.md)
 + leetcode 第40题：[Combination Sum2](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/40.%20Combination%20Sum%20II.md)
 + leetcode 第70题：[Climbing Stairs](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/70.%20Climbing%20Stairs.md)
