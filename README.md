@@ -22,6 +22,8 @@
 + leetcode 第39题：[Combination Sum](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/39.%20Combination%20Sum.md)
 + leetcode 第40题：[Combination Sum2](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/40.%20Combination%20Sum%20II.md)
 + leetcode 第48题：[Rotate Image](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/48.%20Rotate%20Image.md)
++ leetcode 第51题：[N-Queens](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/51.%20N-Queens.md)
++ leetcode 第52题：[N-Queens II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/52.%20N-Queens%20II.md)
 + leetcode 第57题：[Insert Interval](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/57.%20Insert%20Interval.md)
 + leetcode 第65题：[Valid Number](https://github.com/IOEvan/leetcode/tree/master/Description%20+%20code)
 + leetcode 第67题：[Add-Binary](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/67.%20add-binary.md)
