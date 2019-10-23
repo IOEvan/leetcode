@@ -35,6 +35,7 @@
 + leetcode 第84题：[Largest Rectangle in Histogram](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/84.%20Largest%20Rectangle%20in%20Histogram.md)
 + leetcode 第85题：[Maximal Rectangle](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/85.%20Maximal%20Rectangle.md)
 + leetcode 第88题：[Merge Sorted Array](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/88.%20Merge%20Sorted%20Array.md)
++ leetcode 第96题：[Unique Binary Search Trees](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/96.%20Unique%20Binary%20Search%20Trees.md)
 + leetcode 第98题：[Validate Binary Search Tree](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/98.%20Validate%20Binary%20Search%20Tree.md)
 + leetcode 第101题：[Symmetric Tree](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/101.%20Symmetric%20Tree.md)
 + leetcode 第104题：[Maximum Depth of Binary Tree](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
