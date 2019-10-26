@@ -26,6 +26,7 @@
 + leetcode 第52题：[N-Queens II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/52.%20N-Queens%20II.md)
 + leetcode 第57题：[Insert Interval](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/57.%20Insert%20Interval.md)
 + leetcode 第65题：[Valid Number](https://github.com/IOEvan/leetcode/tree/master/Description%20+%20code)
++ leetcode 第66题：[Plus One](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/66.%20Plus%20One.md)
 + leetcode 第67题：[Add-Binary](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/67.%20add-binary.md)
 + leetcode 第68题：[Text Justification](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/68.%20Text%20Justification.md)
 + leetcode 第69题：[Sqrt(x)](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/69.%20Sqrt(x).md)
