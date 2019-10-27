@@ -24,6 +24,7 @@
 + leetcode 第48题：[Rotate Image](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/48.%20Rotate%20Image.md)
 + leetcode 第51题：[N-Queens](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/51.%20N-Queens.md)
 + leetcode 第52题：[N-Queens II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/52.%20N-Queens%20II.md)
++ leetcode 第55题：[Jump Game](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/55.%20Jump%20Game.md)
 + leetcode 第57题：[Insert Interval](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/57.%20Insert%20Interval.md)
 + leetcode 第65题：[Valid Number](https://github.com/IOEvan/leetcode/tree/master/Description%20+%20code)
 + leetcode 第66题：[Plus One](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/66.%20Plus%20One.md)
