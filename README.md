@@ -36,6 +36,7 @@
 + leetcode 第68题：[Text Justification](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/68.%20Text%20Justification.md)
 + leetcode 第69题：[Sqrt(x)](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/69.%20Sqrt(x).md)
 + leetcode 第70题：[Climbing Stairs](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/70.%20Climbing%20Stairs.md)
++ leetcode 第71题：[Simplify Path](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/71.%20Simplify%20Path.md)
 + leetcode 第72题：[Edit Distance](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/72.%20Edit%20Distance.md)
 + leetcode 第74题：[Search a 2D Matrix](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/74.%20Search%20a%202D%20Matrix.md)
 + leetcode 第76题：[Minimum Window Substring](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/76.%20Minimum%20Window%20Substring.md)
