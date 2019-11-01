@@ -30,6 +30,7 @@
 + leetcode 第53题：[Maximum Subarray](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/53.%20Maximum%20Subarray.md)
 + leetcode 第55题：[Jump Game](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/55.%20Jump%20Game.md)
 + leetcode 第57题：[Insert Interval](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/57.%20Insert%20Interval.md)
++ leetcode 第60题：[Permutation Sequence](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/60.%20Permutation%20Sequence.md)
 + leetcode 第62题：[Unique Paths](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/62.%20Unique%20Paths.md)
 + leetcode 第64题：[Minimum Path Sum](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/64.%20Minimum%20Path%20Sum.md)
 + leetcode 第65题：[Valid Number](https://github.com/IOEvan/leetcode/tree/master/Description%20+%20code)
