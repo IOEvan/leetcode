@@ -22,6 +22,7 @@
 + leetcode 第38题：[Count and Say](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/38.%20Count%20and%20Say.md)
 + leetcode 第39题：[Combination Sum](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/39.%20Combination%20Sum.md)
 + leetcode 第40题：[Combination Sum2](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/40.%20Combination%20Sum%20II.md)
++ leetcode 第42题：[Trapping Rain Water](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/42.%20Trapping%20Rain%20Water.md)
 + leetcode 第43题：[Multiply Strings](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/43.%20Multiply%20Strings.md)
 + leetcode 第44题：[Wildcard Matching](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/44.%20Wildcard%20Matching.md)
 + leetcode 第45题：[Jump Game II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/45.%20Jump%20Game%20II.md)
