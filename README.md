@@ -31,6 +31,7 @@
 + leetcode 第52题：[N-Queens II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/52.%20N-Queens%20II.md)
 + leetcode 第53题：[Maximum Subarray](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/53.%20Maximum%20Subarray.md)
 + leetcode 第55题：[Jump Game](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/55.%20Jump%20Game.md)
++ leetcode 第56题：[Merge Intervals](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/56.%20Merge%20Intervals.md)
 + leetcode 第57题：[Insert Interval](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/57.%20Insert%20Interval.md)
 + leetcode 第59题：[Spiral Matrix II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/59.%20Spiral%20Matrix%20II.md)
 + leetcode 第60题：[Permutation Sequence](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/60.%20Permutation%20Sequence.md)
