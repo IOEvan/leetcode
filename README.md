@@ -29,6 +29,7 @@
 + leetcode 第43题：[Multiply Strings](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/43.%20Multiply%20Strings.md)
 + leetcode 第44题：[Wildcard Matching](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/44.%20Wildcard%20Matching.md)
 + leetcode 第45题：[Jump Game II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/45.%20Jump%20Game%20II.md)
++ leetcode 第47题：[Permutations II](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/47.%20Permutations%20II.md)
 + leetcode 第48题：[Rotate Image](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/48.%20Rotate%20Image.md)
 + leetcode 第49题：[Group Anagrams](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/49.%20Group%20Anagrams.md)
 + leetcode 第50题：[Pow(x, n)](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/50.%20Pow(x%2C%20n).md)
