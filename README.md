@@ -18,6 +18,7 @@
 + leetcode 第22题：[Regular Expression Matching](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/22.%20Generate%20Parentheses.md)
 + leetcode 第27题：[Remove Element](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/27.%20Remove%20Element.md)
 + leetcode 第28题：[Implement strStr()](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/28.%20Implement%20strStr().md)
++ leetcode 第31题：[Next Permutation](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/31.%20Next%20Permutation.md)
 + leetcode 第32题：[Longest Valid Parentheses](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/32.%20Longest%20Valid%20Parentheses.md)
 + leetcode 第35题：[Search Insert Position](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/35.%20Search%20Insert%20Position.md)
 + leetcode 第36题：[Valid Sudoku](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/36.%20Valid%20Sudoku.md)
