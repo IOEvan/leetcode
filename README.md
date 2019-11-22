@@ -20,6 +20,7 @@
 + leetcode 第28题：[Implement strStr()](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/28.%20Implement%20strStr().md)
 + leetcode 第31题：[Next Permutation](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/31.%20Next%20Permutation.md)
 + leetcode 第32题：[Longest Valid Parentheses](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/32.%20Longest%20Valid%20Parentheses.md)
++ leetcode 第33题：[Search in Rotated Sorted Array](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 + leetcode 第34题：[Find First and Last Position of Element in Sorted Array](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 + leetcode 第35题：[Search Insert Position](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/35.%20Search%20Insert%20Position.md)
 + leetcode 第36题：[Valid Sudoku](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/36.%20Valid%20Sudoku.md)
