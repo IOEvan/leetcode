@@ -16,6 +16,7 @@
 + leetcode 第19题：[Remove Nth Node From End of List](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 + leetcode 第20题：[Valid Parentheses](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/20.%20Valid%20Parentheses.md)
 + leetcode 第22题：[Regular Expression Matching](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/22.%20Generate%20Parentheses.md)
++ leetcode 第23题：[Merge k Sorted Lists](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/23.%20Merge%20k%20Sorted%20Lists.md)
 + leetcode 第26题：[Remove Duplicates from Sorted Array](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 + leetcode 第27题：[Remove Element](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/27.%20Remove%20Element.md)
 + leetcode 第28题：[Implement strStr()](https://github.com/IOEvan/leetcode/blob/master/Description%20%2B%20code/28.%20Implement%20strStr().md)
